@@ -1,0 +1,13 @@
+body
+{
+    background: linear-gradient(to right, rgb(255, 225, 0), rgb(255, 196, 0));
+}
+#camera, #result
+{
+    border: blue ridge  ;
+}
+.name_of_people
+{
+    color: darkslategray;
+    font: impact;
+}
